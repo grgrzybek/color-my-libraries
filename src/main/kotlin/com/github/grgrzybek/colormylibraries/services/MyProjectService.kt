@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.grgrzybek.colormylibraries.services
 
+import com.github.grgrzybek.colormylibraries.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
